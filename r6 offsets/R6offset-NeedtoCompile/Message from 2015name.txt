@@ -1,0 +1,8 @@
+One you create the .exe, you should be able to update the offsets on your r6 cheat.
+If you want a baseplate for your cheat, use mine as its free to use and open-source:
+https://github.com/vpkgg/r6-SynX
+
+DO NOT FORGET TO DELETE THE .txt FILES FOR COMPILING
+
+If you have any issues dm me
+-2015Name
