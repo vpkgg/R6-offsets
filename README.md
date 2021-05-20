@@ -6,10 +6,10 @@ Just a little info from the writer: If you have any files which could help or iv
 
 Rainbow Six Siege is a super popular game and we get many questions about it, most people are begging for Siege Cheats so I thought I would put together an offset thread to at least get people started with this game.
 
-Game: Rainbow Six Siege
-Developer: Ubisoft
-Engine: AnvilNext 2.0 (Think been updated)
-Anticheat: Battleye
+- Game: Rainbow Six Siege
+- Developer: Ubisoft
+- Engine: AnvilNext 2.0 (Think been updated)
+- Anticheat: Battleye
 
 Bio of game from the developer. Tom Clancy's Rainbow Six Siege is a tactical shooter created by by Ubisoft. It was released for Microsoft Windows, PlayStation 4, and Xbox One on December 1, 2015. The game innovates with environmental destruction and player cooperation. Each player assumes control of an attacker or a defender in different gameplay modes such as hostage rescue, bomb defusal and taking control of objectives. The title has no campaign but features a series of short, offline missions called, "situations" that can be played solo. These missions have a loose narrative, focusing on recruits going through training to prepare them for future encounters with the "White Masks", a terrorist group that threatens the safety of the world.
 
@@ -21,12 +21,12 @@ he games code has classes that they've defined as "managers" that hold alot of i
 
 The managers that are most commonly used are:
 
-  GameManager
-  ProfileManager
-  RoundManager(A.K.A. StatusManager)
-  GlowManager(A.K.A. EnvironmentAreaManager)
-  NetworkManager
-  FovManager
+-   GameManager
+-   ProfileManager
+-   RoundManager(A.K.A. StatusManager)
+-   GlowManager(A.K.A. EnvironmentAreaManager)
+-   NetworkManager
+-   FovManager
 
 These managers are easiest to find with signatures.
 
