@@ -34,4 +34,9 @@ These managers are easiest to find with signatures.
 
 The best way to find offsets for r6 is by using a Offset dumper. In the tools file you will find a few tools, some may work some may not. P.S if they arn't built they all need to built to a x64
 
-I will add more info soon, im just tired after coding all day. Need help or wanna add? dm me on discord: 2015Name#9918 2015Name#9918 2015Name#9918
+I will add more info soon, im just tired after coding all day. Need help or wanna add? dm me on discord: Soon
+
+
+
+
+Just Got My GitHub Back! Update Soon
